@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+networkx
+tqdm
+joblib
+igraph
+leidenalg
+tensorflow
+spektral
+openpyxl
+matplotlib
+scipy
